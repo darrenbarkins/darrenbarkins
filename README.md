@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Hi, I'm Darren Barkins
 
-<!--
-**dbarkins0/dbarkins0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓 MS in Business Analytics (Cal Poly)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Aspiring Data Scientist / Product Analytics / Marketing Analytics
+
+
+🔧 Skills:
+- Python (pandas, sklearn)
+- SQL (MySQL, PostgreSQL)
+- R (tidyverse, modeling)
+- Machine Learning
+- Data Visualization
+
+📌 What you'll find here:
+- End-to-end analytics projects
+- Clean, reproducible code
+- Business-focused insights
