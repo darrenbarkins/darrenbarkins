@@ -45,4 +45,4 @@ Business Analytics · Business Intelligence · Data Analytics · Product Analyti
 
 ## Connect
 
-LinkedIn: linkedin.com/in/darrenbarkins · darrenjbarkins@gmail.com
+www.linkedin.com/in/darrenbarkins · darrenjbarkins@gmail.com
