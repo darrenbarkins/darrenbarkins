@@ -24,4 +24,4 @@ End-to-end ML pipeline on 6 years of NFL data. Engineered 15 features to predict
 
 ### Connect
 
-[LinkedIn](https://linkedin.com/in/darrenbarkins) · dbarkins@calpoly.edu
+[LinkedIn](https://linkedin.com/in/darrenbarkins) · darrenjbarkins@gmail.com
